@@ -6,7 +6,6 @@
     "@ant-design/v5-patch-for-react-19": "^1.0.3",
     "@react-types/provider": "^3.8.6",
     "@reduxjs/toolkit": "^2.5.0",
-    "antd": "^5.23.2",
     "cra-template-typescript": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
