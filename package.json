@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ant-design/v5-patch-for-react-19": "^1.0.3",
     "@react-types/provider": "^3.8.6",
     "@reduxjs/toolkit": "^2.5.0",
     "antd": "^5.23.2",
